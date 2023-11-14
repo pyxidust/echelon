@@ -1,6 +1,6 @@
 # Echelon
 
-**TODO: Add description**
+**Echelon is an Elixir-based pseudo-company. Provision employees and be the boss!**
 
 ## Installation
 
@@ -15,7 +15,4 @@ def deps do
 end
 ```
 
-Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
-and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
-be found at <https://hexdocs.pm/echelon>.
-
+Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc) and published on [HexDocs](https://hexdocs.pm). Once published, the docs can be found at <https://hexdocs.pm/echelon>.

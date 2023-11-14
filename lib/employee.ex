@@ -1,6 +1,6 @@
 
 # employee record lifecycle
-defmodule Company.Employee do
+defmodule Employee do
 
     # provision new record and store PII
     def create(name, birthday, social, base_pay, years_experience) do
